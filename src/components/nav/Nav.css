@@ -35,7 +35,7 @@ nav a.active {
 /*========MEDIA QUERIES (MEDIUM DEVICES)=======*/
 @media screen and (max-width: 1024px){
     nav {
-        width: var(--container-width-md)
+        width: max-content;
     }
 }
 
