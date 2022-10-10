@@ -1,0 +1,40 @@
+#about {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    width: 75%;
+    text-align: center;
+    font-size: 1.3rem;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+/*=================MEDIA QUERIES (MEDIUM DEVICES)================*/
+@media screen and (max-width: 1024px) {
+    .container{
+        width: var(--container-width-md);
+    }
+}
+
+/*=================MEDIA QUERIES (MEDIUM DEVICES)================*/
+@media screen and (max-width: 600px) {
+    .container{
+        width: 100%;
+    }
+    .p{
+        width: 100%;
+    }
+}
+
