@@ -2,6 +2,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    margin-top: 0;
 }
 
 .container{
@@ -9,6 +10,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-top: 0;
 }
 
 p {
@@ -28,7 +30,7 @@ p {
     }
 }
 
-/*=================MEDIA QUERIES (MEDIUM DEVICES)================*/
+/*=================MEDIA QUERIES (small DEVICES)================*/
 @media screen and (max-width: 600px) {
     .container{
         width: 100%;
