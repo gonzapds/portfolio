@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b8b9baa5.css",
+    "main.js": "/portfolio/static/js/main.9ae0bc65.js",
+    "static/media/product landing.png": "/portfolio/static/media/product landing.3bcbba3b69db2d4d5e43.png",
+    "static/media/D3 Choropleth.png": "/portfolio/static/media/D3 Choropleth.4633f05d0b8a137b20ec.png",
+    "static/media/Drum machine.png": "/portfolio/static/media/Drum machine.c0d9dd04eb78437f0124.png",
+    "static/media/D3 heatmap.png": "/portfolio/static/media/D3 heatmap.a780e031cd9bcc61f7b0.png",
+    "static/media/25 5 clock.png": "/portfolio/static/media/25 5 clock.1e0e52b1a15b6fe0d1b1.png",
+    "static/media/Random Quote.png": "/portfolio/static/media/Random Quote.51e07576b3f20a6d1bb2.png",
+    "static/media/D3 Bar Chart.png": "/portfolio/static/media/D3 Bar Chart.ee44ea52305586974e91.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.bee55bfd10bddde61aca.png",
+    "index.html": "/portfolio/index.html",
+    "main.b8b9baa5.css.map": "/portfolio/static/css/main.b8b9baa5.css.map",
+    "main.9ae0bc65.js.map": "/portfolio/static/js/main.9ae0bc65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8b9baa5.css",
+    "static/js/main.9ae0bc65.js"
+  ]
+}
